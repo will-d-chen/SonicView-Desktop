@@ -1,7 +1,7 @@
 import os
 #import streamlit as st
 
-GEMINI_API_KEY = 'AIzaSyDWlRdJLFr7v9nUWmADlypMM3CkPhc1_5U'
+GEMINI_API_KEY = 'YOUR GEMINI KEY'
 
 LLM_OUTPUT_LENGTH_SIZE = 1024
 LOGO_PATH = "asset/logo.png"
