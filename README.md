@@ -10,7 +10,7 @@ Generating real time music from desktop activity
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/will-d-chen/sonicview.git
+   git clone https://github.com/will-d-chen/SonicView-Desktop.git
 
 2. pip install -r requirements.txt
 
