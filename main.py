@@ -77,7 +77,7 @@ while True:
     
     print(take_screenshot())
     image = Image.open(take_screenshot())
-    instructions = get_recycling_instructions(image, gemini_model)
+    instructions = get_instructions(image, gemini_model)
     prompt = instructions[:200]
     print(instructions)
 
