@@ -2,7 +2,7 @@ import google.generativeai as genai
 from PIL import Image
 
 # Local
-from constants import INSTRUCTIONS_PROMPT, 
+from constants import INSTRUCTIONS_PROMPT
 
 
 # Function to call the Gemini LLM API (you'll need to replace with actual API details)
